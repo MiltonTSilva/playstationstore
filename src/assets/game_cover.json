@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"gameCover": "bt-1.jpg",
+		"gameLabel": "Digital",
+		"gameType": "Digital | PS4",
+		"gamePrice": "R$ 199,00"
+	},
+	{
+		"id": 2,
+		"gameCover": "bt-4.jpg",
+		"gameLabel": "Exclusive",
+		"gameType": "Disc | PS5",
+		"gamePrice": "R$ 299,00"
+	},
+	{
+		"id": 3,
+		"gameCover": "bt-hardline.jpg",
+		"gameLabel": "NEW",
+		"gameType": "Digital | PS3 PS4 PS5",
+		"gamePrice": "R$ 399,00"
+	},
+	{
+		"id": 4,
+		"gameCover": "bt-bad-company-2.jpg",
+		"gameLabel": "Digital",
+		"gameType": "Digital | PS4",
+		"gamePrice": "R$ 499,00"
+	},
+	{
+		"id": 51,
+		"gameCover": "bt-5.jpg",
+		"gameLabel": "NEW",
+		"gameType": "Digital | PS5",
+		"gamePrice": "R$ 599,00"
+	}
+]

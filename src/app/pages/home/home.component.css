@@ -1,0 +1,9 @@
+.container {
+	align-items: baseline;
+	/* border: 1px solid #fff; */
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: auto;
+	width: 90%;
+}

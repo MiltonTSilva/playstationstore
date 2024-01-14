@@ -1,0 +1,10 @@
+<div class="container">
+	<span *ngFor="let item of listaGameCover">
+		<app-card
+			gameCover="{{ gameCoverPath + item.gameCover }}"
+			gameLabel="{{ item.gameLabel }}"
+			gameType="{{ item.gameType }}"
+			gamePrice="{{ item.gamePrice }}"
+		></app-card>
+	</span>
+</div>
